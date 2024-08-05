@@ -7,6 +7,7 @@ I am a Brazilian/Portuguese web software developer currently based in Rio de Jan
 - HTML
 - CSS
 - Tailwind CSS
+- Python
 - Figma
 
 ## Professional Experience
