@@ -1,5 +1,5 @@
 ## Hello, I'm Rafael! 👋 What's up?
-I am a Brazilian/Portuguese web software developer currently based in Rio de Janeiro, focused on creating intuitive and responsive web applications. Having a solid foundation in HTML, CSS, JavaScript, and mainly concentrating on React, I bring a keen eye for design and functionality to every project I work on. My background in Audiovisual Communication has also developed my intuitive approach to design, emphasizing the significance of visual storytelling and user experience, which I seamlessly integrate into my front-end development work. Additionally, I am studying Node.js and working on new projects at Driven fullstack bootcamp.
+I am a Brazilian/Portuguese web software developer currently based in Rio de Janeiro, focused on creating intuitive and responsive web applications. Having a solid foundation in HTML, CSS, JavaScript, and mainly concentrating on React, I bring a keen eye for design and functionality to every project I work on. My background in Audiovisual Communication has also developed an intuitive approach to design, emphasizing the significance of visual storytelling and user experience, which I seamlessly integrate into my front-end development work. Additionally, I am studying Node.js and working on new projects at Driven fullstack bootcamp.
 
 ## Technologies:
 - Javascript 
