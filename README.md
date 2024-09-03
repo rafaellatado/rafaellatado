@@ -36,4 +36,4 @@ I am eager to bring my skills and experiences to new and exciting projects. If y
 Email: latadorafael@gmail.com
 LinkedIn: https://www.linkedin.com/in/rafaellatado/
 
-Thank you for taking the time to learn a bit about me!
+Thanks for taking the time to learn a bit about me!
