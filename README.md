@@ -12,7 +12,7 @@ class RafaelLatado {
 
 I am a Brazilian & Portuguese web software developer currently based in Rio de Janeiro, focused on creating intuitive and responsive web applications. Having a solid foundation in HTML, CSS, JavaScript, and a primary focus on React, I bring a keen eye for design and functionality to every project I work on. My background in Audiovisual Communication also enhances my approach to design, emphasizing visual storytelling and user experience, which I integrate seamlessly into my Front-End development work. Additionally, I am studying Node.js and working on new projects at Driven Full-Stack bootcamp.
 
-## More:
+## Technologies:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
