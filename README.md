@@ -16,8 +16,8 @@ I am a Brazilian & Portuguese web software developer currently based in Rio de J
 ## In my personal studies, I have explored:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-<img align="left" alt="Express" width="30px" src="https://github.com/github/explore/blob/main/topics/express/express.png?raw=true" />
+<img align="left" alt="MySQL" width="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+<img align="left" alt="Express" width="100px" src="https://github.com/github/explore/blob/main/topics/express/express.png?raw=true" />
 <br />
 <br />
 
