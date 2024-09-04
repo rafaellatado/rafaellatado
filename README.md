@@ -8,7 +8,6 @@ class RafaelLatado {
     this.tools = ["React.js", "Tailwind CSS"];
   }
 }
-
 // Welcome to my GitHub!
 ```
 
