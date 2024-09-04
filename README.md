@@ -12,7 +12,7 @@ class RafaelLatado {
 
 Welcome to my GitHub! I am a Brazilian & Portuguese web software developer currently based in Rio de Janeiro, focused on creating intuitive and responsive web applications. With a solid foundation in HTML, CSS, JavaScript, and a primary focus on React, I emphasize building functional, efficient, and user-friendly interfaces. My background in Audiovisual Communication informs my understanding of visual elements and user experience, enabling me to collaborate effectively with design teams to enhance the front-end development process. Additionally, I am studying Node.js and working on new projects at Driven Full-Stack bootcamp.
 
-## Technologies:
+### Technologies:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,14 +24,14 @@ Welcome to my GitHub! I am a Brazilian & Portuguese web software developer curre
 <br />
 <br />
 
-## In my personal studies, I have explored:
+### In my personal studies, I have explored:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
 <br />
 <br />
 
-## Professional Experience
+### Professional Experience
 Front-End Developer at RBNA Consult<br><br>
 Duration: 1 year and 2 months<br><br>
 Responsibilities:
@@ -39,14 +39,14 @@ Responsibilities:
 - Ensured cross-browser compatibility
 - Collaborated with design teams to implement new features
 
-## Education
+### Education
 Audiovisual Communication Degree<br><br>
 Institution: Federal University of Rio de Janeiro (UFRJ)<br><br>
 Duration: 5 years<br><br>
 Special Program: One-year exchange program at Vrije Universiteit Amsterdam conducted entirely in English
 - Enhanced my design skills and gained an international perspective on communication and media
 
-## English Language Proficiency
+### English Language Proficiency
 Course Duration: 10 years<br><br>
 Experience: 3 months immersion in London<br><br>
 Fluency: Native-level proficiency in English<br><br>
