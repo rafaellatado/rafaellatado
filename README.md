@@ -1,4 +1,15 @@
-## Hello, I'm Rafael! 👋 What's up?
+## Hello, World! 👋 What's up?
+
+```javascript
+class RafaelLatado {
+  constructor() {
+    this.pronouns = ["he", "him"];
+    this.languages = ["JavaScript", "Python"];
+    this.tools = ["React.js", "Tailwind CSS"];
+  }
+}
+```
+
 I am a Brazilian & Portuguese web software developer currently based in Rio de Janeiro, focused on creating intuitive and responsive web applications. Having a solid foundation in HTML, CSS, JavaScript, and a primary focus on React, I bring a keen eye for design and functionality to every project I work on. My background in Audiovisual Communication also enhances my approach to design, emphasizing visual storytelling and user experience, which I integrate seamlessly into my Front-End development work. Additionally, I am studying Node.js and working on new projects at Driven Full-Stack bootcamp.
 
 ## Languages and Tools:
