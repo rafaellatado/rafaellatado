@@ -1,4 +1,4 @@
-## Hello, World! 👋 What's up?
+## Hi, Internet! 🌐 💻 🌎
 
 ```javascript
 class RafaelLatado {
