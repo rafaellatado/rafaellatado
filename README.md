@@ -1,4 +1,4 @@
-## Hi, Internet! 🌐 💻 🌎 Welcome to my GitHub!
+## Hi, Internet! 🌐 💻 🌎 
 
 ```javascript
 class RafaelLatado { 
@@ -10,7 +10,7 @@ class RafaelLatado {
 } 
 ```
 
-I am a Brazilian & Portuguese web software developer currently based in Rio de Janeiro, focused on creating intuitive and responsive web applications. With a solid foundation in HTML, CSS, JavaScript, and a primary focus on React, I emphasize building functional, efficient, and user-friendly interfaces. My background in Audiovisual Communication informs my understanding of visual elements and user experience, enabling me to collaborate effectively with design teams to enhance the front-end development process. Additionally, I am studying Node.js and working on new projects at Driven Full-Stack bootcamp.
+Welcome to my GitHub! I am a Brazilian & Portuguese web software developer currently based in Rio de Janeiro, focused on creating intuitive and responsive web applications. With a solid foundation in HTML, CSS, JavaScript, and a primary focus on React, I emphasize building functional, efficient, and user-friendly interfaces. My background in Audiovisual Communication informs my understanding of visual elements and user experience, enabling me to collaborate effectively with design teams to enhance the front-end development process. Additionally, I am studying Node.js and working on new projects at Driven Full-Stack bootcamp.
 
 ## Technologies:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
