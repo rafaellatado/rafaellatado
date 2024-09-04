@@ -11,13 +11,15 @@ I am a Brazilian & Portuguese web software developer currently based in Rio de J
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" /> 
 <br />
+<br />
 
 ## In my personal studies, I have explored:
-- REST APIs
-- Node.js
-- MySQL
-- Express
-- Web Scraping with Python
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Express" width="26px" src="https://github.com/github/explore/blob/main/topics/express/express.png?raw=true" />
+<br />
+<br />
 
 ## Professional Experience
 Front-End Developer at RBNA Consult<br><br>
